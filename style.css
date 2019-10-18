@@ -5,7 +5,7 @@
 }
 
 .astronaut {
-    border: 1px solid black;
+    border: 5px solid black;
     display: flex;
     justify-content: space-between;
     width: 500px;
